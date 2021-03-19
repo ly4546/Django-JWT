@@ -25,7 +25,7 @@ django-filters==0.2.1
 django-redis==4.9.0
 django-simple-sso==0.14.0
 django-timezone-field==3.0
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 filemagic==1.6
 gunicorn==19.9.0
