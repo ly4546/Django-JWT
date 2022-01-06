@@ -9,7 +9,7 @@ astroid==2.1.0
 beautifulsoup4==4.6.3
 billiard==3.3.0.23
 bleach==3.0.2
-celery==3.1.26.post2
+celery==5.2.2
 celery-with-redis==3.0
 certifi==2018.10.15
 cffi==1.11.5
